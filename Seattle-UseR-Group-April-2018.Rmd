@@ -670,9 +670,9 @@ class: normal, center
 </tr>
 </table>
 
-https://www.nytimes.com/interactive/2017/01/10/upshot/How-to-Prevent-Gun-Deaths-The-Views-of-Experts-and-the-Public.html
+https://www.nytimes.com/interactive/2017/01/10/upshot/How-to-Prevent-Gun-Deaths-The-Views-of-Experts-and-the-Public.html, http://lawcenter.giffords.org/
 
-, http://lawcenter.giffords.org/
+
 ---
 
 class: normal
@@ -685,7 +685,7 @@ Presentation written in [R Markdown using xaringan](https://github.com/yihui/xar
 Compiled into HTML5 using [RStudio](http://www.rstudio.com/ide/) & [knitr](http://yihui.name/knitr)
 
 Source code hosting:
-https://github.com/benmarwick/
+https://github.com/benmarwick/Seattle-UseR-Group-April-2018
 
 ORCID: http://orcid.org/0000-0001-7879-4531
 
